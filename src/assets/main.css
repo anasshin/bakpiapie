@@ -1,0 +1,20 @@
+.btn {
+  transition: all 200ms ease-in-out;
+}
+
+.btn-link {
+  text-decoration: none;
+  color: var(--bs-green);
+}
+
+.btn {
+  transition: all .8 ease-in-out;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+route-link:hover {
+  transform: scale(1.05);
+}
