@@ -118,19 +118,19 @@
             <h3 class="mb-4">Customer</h3>
             <div class="row">
                 <div class="col-md-3">
-                    <h6>Customer</h6>
+                    <h6>Riza</h6>
                     <div class="ratings">
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
-                        <i class="bi bi-star"></i>
+                        <i class="bi bi-star-fill"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus placeat perspiciatis deserunt
-                        quas nostrum aliquid distinctio vero?</p>
+                    <p>Kulit renyah, isian manis, rasa kacang hijau dan keju favorit.
+                        Pengiriman cepat, kemasan rapi, harga terjangkau.</p>
                 </div>
                 <div class="col-md-3">
-                    <h6>Customer</h6>
+                    <h6>Fausta</h6>
                     <div class="ratings">
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
@@ -138,32 +138,34 @@
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus placeat perspiciatis deserunt
-                        quas nostrum aliquid distinctio vero?</p>
+                    <p>Ukuran kecil, mudah dimakan, cocok dengan teh/kopi.
+                        Hadiah istimewa untuk keluarga dan teman.
+                        Kualitas tinggi, harga terjangkau.</p>
                 </div>
                 <div class="col-md-3">
-                    <h6>Customer</h6>
+                    <h6>Soleh</h6>
                     <div class="ratings">
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
-                        <i class="bi bi-star"></i>
+                        <i class="bi bi-star-fill"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus placeat perspiciatis deserunt
-                        quas nostrum aliquid distinctio vero?</p>
+                    <p>Mengingatkan masa kecil, rasa manis & gurih.
+                        Cita rasa tradisional Indonesia autentik.</p>
                 </div>
                 <div class="col-md-3">
-                    <h6>Rating</h6>
+                    <h6>Lia</h6>
                     <div class="ratings">
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
-                        <i class="bi bi-star"></i>
+                        <i class="bi bi-star-fill"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus placeat perspiciatis deserunt
-                        quas nostrum aliquid distinctio vero?</p>
+                    <p>Layanan pelanggan ramah & membantu.
+                        Penyelesaian masalah cepat & memuaskan.
+                        Komitmen tinggi terhadap kepuasan pelanggan.</p>
                 </div>
 
             </div>

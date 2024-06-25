@@ -65,7 +65,7 @@
 
                     <!-- 2 column grid layout -->
                     <div class="row mb-3">
-                        <div class="col-md-6 d-flex ps-4">
+                        <div class="d-flex ps-4">
                             <!-- Checkbox -->
                             <div class="form-check mb-3 mb-md-0">
                                 <input class="form-check-input" type="checkbox" value="" id="loginCheck" />

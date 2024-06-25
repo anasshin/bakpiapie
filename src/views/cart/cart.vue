@@ -90,7 +90,7 @@
                         <div class="col">Total</div>
                         <div class="col text-right">Rp. 30.000</div>
                     </div>
-                    <router-link to="/payment" class="btn fs-6"><b>Checkout</b></router-link>
+                    <router-link to="/checkout" class="btn fs-6"><b>Checkout</b></router-link>
                 </div>
             </div>
 
